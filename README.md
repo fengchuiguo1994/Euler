@@ -28,3 +28,11 @@ use time 0.0049865246 s
 python:use time 0.0009970665 s <br/>
 在python中实现比较简单(直接遍历)。实际上是有平法的和的计算公式的 <br/>
 ![f(n) = \frac{1}{6}(2n^3 + 3n^2 + n)](python/img/6.gif)
+
+### 7.计算第10001个质数
+python:use time 7.3699765205 s <br/>
+参考第三题
+
+### 8.计算相邻13个数字的最大积
+python:use time 0.0049862862 s <br/>
+遍历计算一遍
