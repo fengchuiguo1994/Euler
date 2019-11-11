@@ -53,4 +53,9 @@ python:use time 7.3699765205 s <br/>
 |2000|0.0070142746 s|
 |20000|0.3625621796 s|
 |200000|25.6672554016 s|
-|2000000|
+|2000000||
+<br/>
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
