@@ -45,6 +45,8 @@ python:use time 0.1326451302 s <br/>
 python:use time 7.3699765205 s <br/>
 参考第三题 <br/>
 值得注意的是：随着求解规模的扩大,每次需要增长的时间的倍数是越来越大<br/>
+
+
 |规模|时间|
 |:-:|:-:|
 |2|0.0000000000 s|
@@ -54,8 +56,4 @@ python:use time 7.3699765205 s <br/>
 |20000|0.3625621796 s|
 |200000|25.6672554016 s|
 |2000000||
-<br/>
-| Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+
